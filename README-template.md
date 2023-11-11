@@ -35,6 +35,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 10. Center on the page with flexbox (create flex container with height set to 100vh)
 
+11.Adjust media-queries for responsive design for desktop
+
 ### Built with
 
 - Semantic HTML5 markup

@@ -5,3 +5,33 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 */
+
+@media screen and (min-width: 1000px) {
+  .container {
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+
+  figure {
+    max-width: 375px;
+    margin: 10rem 0;
+    width: 300px;
+    height: 480px;
+  }
+
+  footer {
+    gap: 0.5rem;
+  }
+
+  footer p {
+    color: var(--darkBlue);
+  }
+
+  footer a:hover {
+    color: black;
+  }
+}
