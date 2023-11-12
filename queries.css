@@ -26,12 +26,4 @@ The designs were created to the following widths:
   footer {
     gap: 0.5rem;
   }
-
-  footer p {
-    color: var(--darkBlue);
-  }
-
-  footer a:hover {
-    color: black;
-  }
 }

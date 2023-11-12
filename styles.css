@@ -55,9 +55,6 @@ figure {
 
 /* ***FOOTER *** */
 footer {
-  position: fixed;
-  bottom: -2%;
-  width: 100%;
   display: flex;
   justify-content: center;
   gap: 20px;
